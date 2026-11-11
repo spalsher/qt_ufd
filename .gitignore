@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+preview/*.ppm
+build/
+*.bin
+*.elf
+*.map
